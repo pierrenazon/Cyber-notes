@@ -1,2 +1,2 @@
-# Cyber-notes
- > 🔒 Débutant en cybersécurité, je me forme sur Linux, le réseau et le hacking éthique. Je partage ici mes projets et mon évolution. 🎯
+# Cyber-notes  
+> 🔐 Passionné de cybersécurité. Je partage ici mes notes et projets.
